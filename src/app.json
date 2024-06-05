@@ -1,0 +1,443 @@
+{
+    "projectName": "kitDocs",
+    "socialMedia": [
+        {
+            "name": "twitter",
+            "link": "https://x.com/developedByAnt"
+        }
+    ],
+    "navLinks": [
+        {
+            "text": "Home",
+            "href": "/",
+            "external": false
+        },
+        {
+            "text": "Documentation",
+            "href": "/docs",
+            "external": false
+        }
+    ],
+    "footerLinks": [
+        {
+            "title": "",
+            "links": [
+                {
+                    "text": "Home",
+                    "href": "/",
+                    "external": false
+                },
+                {
+                    "text": "Documentation",
+                    "href": "/docs",
+                    "external": false
+                }
+            ]
+        }
+    ],
+    "kitDocs": {
+        "Introduction": [
+            {
+                "layout": "Introduction",
+                "title": "SvelteBlocks",
+                "href": "/docs",
+                "description": "Everything you need to know about svelte blocks.",
+                "new": false,
+                "headers": [
+                    {
+                        "id": "what-is-svelteblocks",
+                        "text": "What is svelteBlocks"
+                    },
+                    {
+                        "id": "installation",
+                        "text": "Installation"
+                    }
+                ]
+            },
+            {
+                "layout": "Introduction",
+                "title": "Styling",
+                "href": "/docs/styling",
+                "description": "Everything you need to know about svelte blocks.",
+                "new": false,
+                "headers": [
+                    {
+                        "id": "styling",
+                        "text": "Styling"
+                    }
+                ]
+            }
+        ],
+        "Components": [
+            {
+                "layout": "Components",
+                "title": "Accordion",
+                "href": "/docs/components/accordion",
+                "description": "A collapsible content container that toggles visibility of its content when clicked.",
+                "new": false,
+                "headers": [
+                    {
+                        "id": "accordion",
+                        "text": "Accordion"
+                    },
+                    {
+                        "id": "component-type",
+                        "text": "Component type"
+                    }
+                ]
+            },
+            {
+                "layout": "Components",
+                "title": "Avatar",
+                "href": "/docs/components/avatar",
+                "description": "Visual representation of a user or entity, often displayed as an image, icon, or initials.",
+                "new": false,
+                "headers": [
+                    {
+                        "id": "avatar",
+                        "text": "Avatar"
+                    },
+                    {
+                        "id": "type",
+                        "text": "Type"
+                    }
+                ]
+            },
+            {
+                "layout": "Components",
+                "title": "Burger",
+                "href": "/docs/components/burger",
+                "description": "Iconic button that toggles the visibility of a navigation menu or sidebar, often used in responsive designs.",
+                "new": false,
+                "headers": [
+                    {
+                        "id": "burger",
+                        "text": "Burger"
+                    },
+                    {
+                        "id": "type",
+                        "text": "Type"
+                    }
+                ]
+            },
+            {
+                "layout": "Components",
+                "title": "Button",
+                "href": "/docs/components/button",
+                "description": "A clickable element that triggers an action when pressed.",
+                "new": false,
+                "headers": [
+                    {
+                        "id": "toast",
+                        "text": "Toast"
+                    },
+                    {
+                        "id": "type",
+                        "text": "Type"
+                    },
+                    {
+                        "id": "style",
+                        "text": "Style"
+                    },
+                    {
+                        "id": "outline",
+                        "text": "Outline"
+                    },
+                    {
+                        "id": "loading",
+                        "text": "Loading"
+                    },
+                    {
+                        "id": "full-width",
+                        "text": "Full width"
+                    },
+                    {
+                        "id": "rounded",
+                        "text": "Rounded"
+                    },
+                    {
+                        "id": "anchor-tag",
+                        "text": "Anchor tag"
+                    },
+                    {
+                        "id": "events",
+                        "text": "Events"
+                    }
+                ]
+            },
+            {
+                "layout": "Components",
+                "title": "Calendar",
+                "href": "/docs/components/calendar",
+                "description": "A interactive date picker that displays a monthly view and allows selecting a date.",
+                "new": false,
+                "headers": [
+                    {
+                        "id": "toast",
+                        "text": "Toast"
+                    },
+                    {
+                        "id": "usage",
+                        "text": "Usage"
+                    },
+                    {
+                        "id": "type",
+                        "text": "Type"
+                    },
+                    {
+                        "id": "binding-value",
+                        "text": "Binding value"
+                    },
+                    {
+                        "id": "change-style",
+                        "text": "Change style"
+                    }
+                ]
+            },
+            {
+                "layout": "Components",
+                "title": "Chip",
+                "href": "/docs/components/chip",
+                "description": "Compact, stylized label/tag, often used to filter, categorize, or display information.",
+                "new": false,
+                "headers": [
+                    {
+                        "id": "chip",
+                        "text": "Chip"
+                    },
+                    {
+                        "id": "type",
+                        "text": "Type"
+                    }
+                ]
+            },
+            {
+                "layout": "Components",
+                "title": "Editor",
+                "href": "/docs/components/editor",
+                "description": "A block-based, customizable, and extensible rich text editor component.",
+                "new": false,
+                "headers": [
+                    {
+                        "id": "editor",
+                        "text": "Editor"
+                    },
+                    {
+                        "id": "type",
+                        "text": "Type"
+                    }
+                ]
+            },
+            {
+                "layout": "Components",
+                "title": "Header",
+                "href": "/docs/components/header",
+                "description": "A top-level navigation component that displays a title to a page.",
+                "new": false,
+                "headers": [
+                    {
+                        "id": "header",
+                        "text": "Header"
+                    },
+                    {
+                        "id": "usage",
+                        "text": "Usage"
+                    },
+                    {
+                        "id": "type",
+                        "text": "Type"
+                    }
+                ]
+            },
+            {
+                "layout": "Components",
+                "title": "Input",
+                "href": "/docs/components/input",
+                "description": "Basic form input field for user data entry, with optional label and validation.",
+                "new": false,
+                "headers": [
+                    {
+                        "id": "input",
+                        "text": "Input"
+                    },
+                    {
+                        "id": "type",
+                        "text": "Type"
+                    }
+                ]
+            },
+            {
+                "layout": "Components",
+                "title": "InputChips",
+                "href": "/docs/components/inputChips",
+                "description": "Input field that allows users to enter and manage multiple tags or keywords as chips.",
+                "new": false,
+                "headers": [
+                    {
+                        "id": "input-chips",
+                        "text": "Input chips"
+                    },
+                    {
+                        "id": "type",
+                        "text": "Type"
+                    }
+                ]
+            },
+            {
+                "layout": "Components",
+                "title": "Label",
+                "href": "/docs/components/label",
+                "description": "Text element that provides a description or title for a form control or interface element.",
+                "new": false,
+                "headers": [
+                    {
+                        "id": "label",
+                        "text": "Label"
+                    },
+                    {
+                        "id": "type",
+                        "text": "Type"
+                    }
+                ]
+            },
+            {
+                "layout": "Components",
+                "title": "Modal",
+                "href": "/docs/components/modal",
+                "description": "Dialog box that appears on top of the main content, used for alerts, confirmations, or additional information.",
+                "new": false,
+                "headers": [
+                    {
+                        "id": "label",
+                        "text": "Label"
+                    },
+                    {
+                        "id": "type",
+                        "text": "Type"
+                    }
+                ]
+            },
+            {
+                "layout": "Components",
+                "title": "Tabs",
+                "href": "/docs/components/tabs",
+                "description": "Component that organizes content into multiple panels, allowing users to navigate between them.",
+                "new": false,
+                "headers": [
+                    {
+                        "id": "tabs",
+                        "text": "Tabs"
+                    },
+                    {
+                        "id": "type",
+                        "text": "Type"
+                    }
+                ]
+            },
+            {
+                "layout": "Components",
+                "title": "TextDivider",
+                "href": "/docs/components/textDivider",
+                "description": "Horizontal separator element used to divide and organize content into distinct sections.",
+                "new": false,
+                "headers": [
+                    {
+                        "id": "label",
+                        "text": "Label"
+                    },
+                    {
+                        "id": "type",
+                        "text": "Type"
+                    }
+                ]
+            },
+            {
+                "layout": "Components",
+                "title": "TextArea",
+                "href": "/docs/components/textarea",
+                "description": "Multi-line text input field for entering and editing large amounts of text.",
+                "new": false,
+                "headers": [
+                    {
+                        "id": "textarea",
+                        "text": "TextArea"
+                    },
+                    {
+                        "id": "type",
+                        "text": "Type"
+                    }
+                ]
+            },
+            {
+                "layout": "Components",
+                "title": "Toast",
+                "href": "/docs/components/toast",
+                "description": "A temporary notification message that appears briefly to provide feedback or information.",
+                "new": false,
+                "headers": [
+                    {
+                        "id": "toast",
+                        "text": "Toast"
+                    },
+                    {
+                        "id": "component-type",
+                        "text": "Component type"
+                    }
+                ]
+            },
+            {
+                "layout": "Components",
+                "title": "Toggle",
+                "href": "/docs/components/toggle",
+                "description": "Switch-like component that allows users to toggle a setting or option on or off.",
+                "new": false,
+                "headers": [
+                    {
+                        "id": "toggle",
+                        "text": "Toggle"
+                    },
+                    {
+                        "id": "type",
+                        "text": "Type"
+                    }
+                ]
+            },
+            {
+                "layout": "Components",
+                "title": "Typewriter",
+                "href": "/docs/components/typewriter",
+                "description": "Animated text component that simulates a typewriter effect, revealing text one character at a time.",
+                "new": false,
+                "headers": [
+                    {
+                        "id": "typewriter",
+                        "text": "Typewriter"
+                    },
+                    {
+                        "id": "type",
+                        "text": "Type"
+                    }
+                ]
+            }
+        ],
+        "Examples": [
+            {
+                "layout": "Examples",
+                "title": "Login",
+                "href": "/docs/examples/login",
+                "description": "A login page using svelteBlocks.",
+                "new": false,
+                "headers": [
+                    {
+                        "id": "login-page",
+                        "text": "Login page"
+                    },
+                    {
+                        "id": "code",
+                        "text": "Code"
+                    }
+                ]
+            }
+        ]
+    }
+}
